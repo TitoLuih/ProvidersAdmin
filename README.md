@@ -110,9 +110,6 @@ The application supports drag & drop file upload functionality with:
 ## 📱 Platforms Supported
 
 - ✅ Web
-- ✅ Linux
-- ✅ macOS
-- ✅ Windows
 
 ## 🔧 Configuration
 
