@@ -1,6 +1,6 @@
 # ProvidersAdmin
 
-A Flutter application for managing suppliers and invoices. This project provides a comprehensive solution for supplier administration, document management, and order processing.
+A Flutter application for managing suppliers and invoices. This project provides a comprehensive solution for supplier administration, document management that sents the documents to a service that read it with IA and puts the information on a JSON.
 
 **Important note**
 This project was created a year ago when I was learning Flutter for the first time, it is not the cleanest but I want to revive it and keep updating it and making the code cleaner and eassier to read
